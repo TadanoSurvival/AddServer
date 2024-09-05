@@ -5,7 +5,7 @@ function createLink() {
         create_form.create_port.value
     ) {
         var link =
-            "https://addserver.TDSB.net/?name=" +
+            "https://tadanosurvival.github.io/AddServer/?name=" +
             create_form.create_name.value +
             "&ip=" +
             create_form.create_ip.value +
